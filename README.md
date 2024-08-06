@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/faamWo_k)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15512321&assignment_repo_type=AssignmentRepo)
 # About this Template
 This Repo Template is designed to make it easy for students to move back and forth between VSCode on-line and VSCode on the desktop.  It also includes "Desktop-Lite" for the on-line VSCode deployment, which allows Java GUIs (or any other GUIs) to be displayed throught the browser event when they are being launched from a cloud VM. It also includes a handful of basic Java plugins for both VSCode on-line and VSCode desktop to help keep the environments consistent. Finially, it includes some .vscode setting to help hide some of this configuration noise from the students.
 
