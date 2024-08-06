@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NotMain",
+            "request": "launch",
+            "mainClass": "NotMain",
+            "projectName": "testwithalec-AlecMcT_f6e4c00b"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
